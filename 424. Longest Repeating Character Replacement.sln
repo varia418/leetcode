@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "424. Longest Repeating Character Replacement", "424. Longest Repeating Character Replacement.csproj", "{1938E917-E4B7-4505-9220-A808FDEFAC99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1938E917-E4B7-4505-9220-A808FDEFAC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1938E917-E4B7-4505-9220-A808FDEFAC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1938E917-E4B7-4505-9220-A808FDEFAC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1938E917-E4B7-4505-9220-A808FDEFAC99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8EB673-A07C-4D43-8274-5FC12FE0B8F7}
+	EndGlobalSection
+EndGlobal
