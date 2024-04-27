@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubtree", "IsSubtree.csproj", "{7FC22F82-6FDA-4070-9EFC-04E3846B1E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC22F82-6FDA-4070-9EFC-04E3846B1E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC22F82-6FDA-4070-9EFC-04E3846B1E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC22F82-6FDA-4070-9EFC-04E3846B1E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC22F82-6FDA-4070-9EFC-04E3846B1E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB5BAE98-F981-42DB-A19F-3E89B6515353}
+	EndGlobalSection
+EndGlobal
