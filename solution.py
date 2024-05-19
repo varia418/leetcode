@@ -35,10 +35,6 @@ class Solution:
                 if curr + coins[-1] not in dp:
                     dp[curr] = -1
                  
-            # keys = list(filtered_dict)
-            # if dp[keys[0]] == -1:
-            #     return -1
-            
             if len(filtered_dict) == 0:
                 return -1
         
